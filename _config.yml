@@ -1,0 +1,39 @@
+# Site
+repository: ChanYeongShin/ChanYeongShin.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+# Updated at 2023.04.16
+version: 1
+
+# Personal info
+name: Chan Ho Shin
+title: Chan Ho Shin's homepage
+email: ssin1996@korea.ac.kr
+website: https://github.com/SSINsch
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+# twitter_username: 
+github_username:  SSINsch
+linkedin_username: Chan Ho Shin
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
