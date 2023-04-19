@@ -87,18 +87,12 @@ ___
     - AFL fuzzer
     - (little bit of) LLVM
 
-# Certificate
-___
-- 정보처리기사 (2018.12)
-  - 과학기술정보통신부
-
 # Reports
 ___
 - 보안규정상 공개범위 밖 입니다.
 
-# Interests
-___
-- Domain Knowledge & Research interest
-    - Cyber Security
-    - Machine Learning & Deep Learning (pytorch)
-    - MITRE ATT&CK
+# Domain Knowledge & Research interest
+___ 
+- Cyber Security
+- MITRE ATT&CK
+- Machine Learning & Deep Learning
