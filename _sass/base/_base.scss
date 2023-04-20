@@ -76,3 +76,33 @@ img {
 td {
   vertical-align: top;
 }
+
+
+.resume-item {
+    margin: 0 0 10px 0;
+}
+
+.resume-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.resume-appendix{
+    flex-grow: 1;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.resume-organization{
+    font-family: inherit;
+    color: #434343;
+    margin: 0 10px 0 0;
+}
+
+.resume-date {
+    font-style: italic;
+    font-family: inherit;
+    color: dimgray;
+}

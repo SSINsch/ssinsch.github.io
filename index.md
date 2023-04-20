@@ -12,12 +12,22 @@ ___
 # Education
 ___
 
-- 고려대학교 정보보호대학원 석사과정 (2020.3 ~ )
+<div class="resume-row">
+  <div class="resume-desc">고려대학교 정보보호대학원 정보보호학과 석박통합과정</div>
+  <div class="resume-appendix">
+    <div class="resume-organization"> </div>
+    <div class="resume-date">Sep. 2019 ~ now</div>
+  </div>
+</div>
+
+
+- 고려대학교 정보보호대학원 석사과정 
     - Learning with noisy labels 연구 진행 중   
     - ~~Korean Hate speech detection~~ (중단)
     - ~~Fake News detection~~ (중단)
     - ~~Vulnerability detection using NLP~~ (중단)
     - **라벨링 이라는 큰 틀을 연구**
+
 - 고려대학교 사이버국방학과 졸업 (2014.3 ~ 2018.2)
     - 해킹동아리 CyKor 활동
     - 암호학, 알고리즘, 시스템/웹 해킹, 국제법, 리버싱 등 다양한 전공 수강
