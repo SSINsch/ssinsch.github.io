@@ -12,19 +12,6 @@ ___
 # Education
 ___
 
-<ul class="resume-list">
-<li class="resume-item">
-<div class="resume-row">
-  <div class="resume-desc">고려대학교 정보보호대학원 정보보호학과 석박통합과정</div>
-  <div class="resume-appendix">
-    <div class="resume-organization"> </div>
-    <div class="resume-date">Sep. 2019 ~ now</div>
-  </div>
-</div>
-</li>
-</ul>
-
-
 - 고려대학교 정보보호대학원 석사과정 (2020.3 ~)
     - Learning with noisy labels 연구 진행 중   
     - ~~Korean Hate speech detection~~ (중단)
