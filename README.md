@@ -3,6 +3,9 @@ Based on...
 - Chester How's tale-theme(https://github.com/chesterhow/tale)
 - KyeongSeob Sim's AP(https://github.com/kssim/ap)  
 
+# Todo
+- 한글 font 수정
+- Portfolio 작성
 
 ## Structure
 * Here are the main files of the template
@@ -22,10 +25,6 @@ ap
 └── index.md                   # Resume to show on "about" page
 ```
 
-## Configure AP
-Open _config.yml in a text editor to change most of the blog's settings.
-
-
 ## Portfolio Schema
 ```markdown
 ---
@@ -36,11 +35,6 @@ tech: [The technologies used in the project to show in portfolio list]
 type: [Property of the project to be displayed in front of the project's info(toy or company name)]
 ---
 ```
-
-## Other formats
-It uses the markdown syntax by default, and there is no format other than the one mentioned above.  
-You can use it as you like.  
-
 
 ## License
 [The MIT License (MIT)](https://raw.githubusercontent.com/kssim/ap/master/LICENSE)
