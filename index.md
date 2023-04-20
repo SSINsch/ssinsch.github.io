@@ -21,8 +21,8 @@ ___
     - 해킹동아리 CyKor 활동
     - 암호학, 알고리즘, 시스템/웹 해킹, 국제법, 리버싱 등 다양한 전공 수강
 - 인천과학고등학교 조기졸업 (2012.3 ~ 2014.2)
-    - (전공) 화학 / 수학
-    - (부전공)  생물
+    - ```전공``` 화학 / 수학
+    - ```부전공```  생물
 
 # Experience
 ___
@@ -34,6 +34,7 @@ ___
 ## Other Experience
 - 차세대보안리더 양성프로그램 Best of the Best 5기 (2016.07 ~ 2017.01)
     - 취약점 탐지 트랙 수료
+    - [Reident project](https://ssinsch.github.io/portfolio/) 참조
 
 # Publications
 ___
@@ -60,32 +61,19 @@ ___
 
 # Patent
 ___
-- (국내) 퍼징에서 시드 파일을 스케줄링 하는 방법 및 이를 위한 장치 (2020)
+- ```국내``` 퍼징에서 시드 파일을 스케줄링 하는 방법 및 이를 위한 장치 (2020)
   - Eng) Method And Apparatus For Scheduling Seed File In Fuzzing
   - 출원
-- (국내) 공격 예측 모델 훈련 방법 및 이를 위항 장치 (2023) 
+- ```국내``` 공격 예측 모델 훈련 방법 및 이를 위항 장치 (2023) 
   - 출원
-- (국외) method for training attack prediction model and device therefor (2023)
+- ```국외``` method for training attack prediction model and device therefor (2023)
   - 출원 진행 중
-
 
 # Skills
 ___
-- Programming & CS
-    - python (including pytorch)
-    - C
-    - fuzzing
-    - crawling
-    - (little bit of) PowerShell
-- Language
-    - 영어 토익 900 :arrow_up: (2018)
-    - ~~JLPT ?급~~ (2023 or 2024 예정)
-- Tool
-    - Pycharm / VSCode
-    - IDA
-    - Wireshark
-    - AFL fuzzer
-    - (little bit of) LLVM
+- ```Programming / CS```  **python**, C, fuzzing, crawling, PowerShell
+- ```Language``` **Korean**, English, ~~Japanese(JLPT 2023 or 2024 예정)~~
+- ```Tool``` **Pycharm**, IDA, Wireshark, AFL fuzzer, LLVM
 
 # Reports
 ___
@@ -94,5 +82,5 @@ ___
 # Domain Knowledge & Research interest
 ___ 
 - Cyber Security
-- MITRE ATT&CK
+- Cyber Threat Intelligence
 - Machine Learning & Deep Learning
