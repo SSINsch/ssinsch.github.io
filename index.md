@@ -5,9 +5,11 @@ layout: about
 # About Me
 ___  
 
-현재 대한민국 육군 대위로 국방과학연구소에서 근무 중에 있습니다.    
-동시에 고려대학교에서 석사 과정을 밟고 있습니다.  
-주 연구 분야는 정보보호와 딥러닝이며, 특히 자연어처리 분야의 연구를 활용하여 정보보안을 달성하는 연구를 수행하고 있습니다.
+5년간 대한민국 육군 대위로 국방과학연구소에서 근무하였습니다.
+주 연구 분야는 정보보호와 딥러닝이며, 특히 자연어처리 분야의 연구를 활용하여 정보보안을 달성하는 연구를 수행하였습니다.  
+현재는 사이버작전사령부에서 근무 중에 있습니다.  
+동시에 고려대학교에서 석사 과정을 밟고 있습니다. (2024.8월 졸업 예정)  
+
 
 # Education
 ___
@@ -17,7 +19,6 @@ ___
     - ~~Korean Hate speech detection~~ (중단)
     - ~~Fake News detection~~ (중단)
     - ~~Vulnerability detection using NLP~~ (중단)
-    - **라벨링 이라는 큰 틀을 연구**
 
 - 고려대학교 사이버국방학과 졸업 (2014.3 ~ 2018.2)
     - 해킹동아리 CyKor 활동
@@ -32,11 +33,16 @@ ___
 - 국방과학연구소(ADD, Agency for Defense Development) (2018.7 ~)
   - 현역파견원 (국방사이버기술센터)
   - 주요 수행역할은 [Portfolio](https://ssinsch.github.io/portfolio/) 참조
+- 사이버작전사령부(COC, Cyber Operations Command) (2023.8 ~ 2025.5)
+  - 업무 내용: (대외비)
 
 ## Other Experience
 - 차세대보안리더 양성프로그램 Best of the Best 5기 (2016.07 ~ 2017.01)
-    - 취약점 탐지 트랙 수료
-    - [Reident project](https://ssinsch.github.io/portfolio/) 참조
+  - 취약점 탐지 트랙 수료
+  - [Reident project](https://ssinsch.github.io/portfolio/) 참조
+- LockedShields 2024 참가 (2024.4)
+  - `시스템` 및 `개발`팀 소속 업무 수행
+  - `리눅스 시스템 하드닝`, `윈도우 시스템 하드닝`, `Automation with Ansible/Fabric`
 
 # Publications
 ___
@@ -50,7 +56,8 @@ ___
 작성 예정
 
 ## 국제 학술지
-- Pattern Recognition Letters 투고 예정
+- IEEE Access 게재 완료 (업데이트 예정)
+- Pattern Recognition Letters 게재확정 (업데이트 예정)
 
 # CVE
 ___
@@ -73,9 +80,8 @@ ___
 
 # Skills
 ___
-- ```Programming / CS```  **python**, C, fuzzing, crawling, PowerShell
-- ```Language``` **Korean**, English, ~~Japanese(JLPT 2023 or 2024 예정)~~
-- ```Tool``` **Pycharm**, IDA, Wireshark, AFL fuzzer, LLVM
+- ```Programming / CS```  **python**, C, fuzzing
+- ```Language``` **Korean**, English, ~~Japanese(JLPT 2024 예정)~~
 
 
 # Reports
@@ -87,3 +93,5 @@ ___
 - Cyber Security
 - Cyber Threat Intelligence
 - Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- Learning with Noisy labels (LNL)
