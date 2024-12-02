@@ -29,7 +29,7 @@ layout: about
 
 - Security Engineer/Team Leader, ROK Cyber Operations Command (ROK C.O.C.), Republic of Korea (2023.8 ~ 2025.5)
   - Network log analysis and program development using AI and statistics
-  - Others: `confidential` 
+  - Others: `Confidential` 
 - Cybersecurity Researcher, Agency for Defense Development (ADD), Seoul, Republic of Korea (2018.7 ~ 2023.8)
   - Techniques to disrupt nation-sponsored cyberattacks' goals (국가급 사이버 공격 목표 달성 와해 기술) (2020.11 ~ 2023.7)
     - In charge of APT attack classification and goal prediction.  
@@ -38,7 +38,7 @@ layout: about
   - Techniques to improve fuzzing performance with deep learning (딥러닝을 활용한 퍼징 성능 향상 기술) (2018.11 ~ 2020.10)
     - In charge of seed scheduling algorithms.
     - Also code integration manager within team.
-    - Published one [patent](#patent):[p1] and reported five [CVEs](#cve).
+    - Published one [patent](#patent)([p1]) and reported five [CVEs](#cve).
 
 ## Other Experiences
 - CCDCOE LockedShields 2024 Blue Team (2024.4)
@@ -50,7 +50,7 @@ layout: about
 ## Honors and Awards
 - `2024.11.29` Excellence prize(Chief of Staff, R.O.K Air Force) at MAICON(Military AI CONtest) 2024.
 - `2024.11.7` 2nd prize at FSI(Financial Security Institute) AIxData Challenge 2024.
-- Full Tuition Scholarship (Korea University) (2014.3 ~ 2018.2)
+- Full Tuition Scholarship (Korea University) (2014.3 ~ 2018.2)  
   from Ministry of National Defense, Republic of Korea
 
 # Publications
