@@ -16,7 +16,6 @@ layout: about
 - `July 2024` Co-TES has been accepted to Pattern Recognition Letters.
 - `September 2023` "Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework" has been accepted to IEEE Access.
 
-
 # Education
 
 - M.S. Candidate in Information Security, Korea University, Seoul, Republic of Korea (2020.3 ~ 2024.8)
@@ -41,7 +40,6 @@ layout: about
     - Also code integration manager within team.
     - Published one [patent](#patent):[p1] and reported five [CVEs](#cve).
 
-
 ## Other Experiences
 - CCDCOE LockedShields 2024 Blue Team (2024.4)
   - Member of `system hardening` and `dev` team.
@@ -49,41 +47,35 @@ layout: about
 - Next-generation security leader training program "Best of the Best" (2016.07 ~ 2017.01)
   - Vulnerability detection track
 
-
 ## Honors and Awards
 - `2024.11.29` Excellence prize(Chief of Staff, R.O.K Air Force) at MAICON(Military AI CONtest) 2024.
 - `2024.11.7` 2nd prize at FSI(Financial Security Institute) AIxData Challenge 2024.
 - Full Tuition Scholarship (Korea University) (2014.3 ~ 2018.2)
   from Ministry of National Defense, Republic of Korea
 
-
 # Publications
 ## International Journals and Conferences
-- <span style="color:#FF6666">[J3]</span> Co–TES: Learning noisy labels with a Co-Teaching Exchange Student method
+- <span style="color:#FF6666">[J3]</span> Co–TES: Learning noisy labels with a Co-Teaching Exchange Student method  
   ***Chanho shin*** and Changhee Choi  
   <span style="color:#FF9999">Pattern Recognition Letters</span>
-
-- <span style="color:#FF6666">[J2]</span> Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework
+- <span style="color:#FF6666">[J2]</span> Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework  
   ***Chanho shin***, Insup Lee, and Changhee Choi  
   <span style="color:#FF9999">IEEE Access 2023</span>
-
-- <span style="color:#FF6666">[J1]</span> Performance evaluation method of cyber attack behaviour forecasting based on mitigation
+- <span style="color:#FF6666">[J1]</span> Performance evaluation method of cyber attack behaviour forecasting based on mitigation  
   Changhee Choi, Sunguk Shin, and ***Chanho Shin***  
   <span style="color:#FF9999">The 12th international conference on ICT convergence (2021 ICTC)</span>
-
 
 ## Patent
 
 - <span style="color:#FF6666">[P3]</span> Method for training attack prediction model and device therefor  
     Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
     U.S. Patent Number. US20230308462A1, September 28th, 2023. [[link]](https://patents.google.com/patent/US20230308462A1/en)  
-- <span style="color:#FF6666">[P2]</span> 공격 예측 모델 훈련 방법 및 이를 위한 장치 (METHOD FOR TRAINING ATTACK PREDICTION MODEL AND DEVICE THEREFOR)
-    Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee
-    Republic of Korea. Patent Number. 10-2022-0037634, March 25th, 2023. 
-- <span style="color:#FF6666">[P1]</span> 퍼징에서 시드 파일을 스케줄링 하는 방법 및 이를 위한 장치(Method And Apparatus For Scheduling Seed File In Fuzzing)
-    Pilkeun Park, **Chanho Shin**, Seounghun Jeong, and Taein Kang
+- <span style="color:#FF6666">[P2]</span> 공격 예측 모델 훈련 방법 및 이를 위한 장치 (METHOD FOR TRAINING ATTACK PREDICTION MODEL AND DEVICE THEREFOR)  
+    Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
+    Republic of Korea. Patent Number. 10-2022-0037634, March 25th, 2023.  
+- <span style="color:#FF6666">[P1]</span> 퍼징에서 시드 파일을 스케줄링 하는 방법 및 이를 위한 장치(Method And Apparatus For Scheduling Seed File In Fuzzing)  
+    Pilkeun Park, **Chanho Shin**, Seounghun Jeong, and Taein Kang  
     Republic of Korea. Patent Number. 10-2020-0102581, January 14th, 2022.
-  
 
 ## Domestic Journals and Conferences
 
