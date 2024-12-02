@@ -31,11 +31,11 @@ layout: about
   - Network log analysis and program development using AI and statistics
   - Others: `Confidential` 
 - Cybersecurity Researcher, Agency for Defense Development (ADD), Seoul, Republic of Korea (2018.7 ~ 2023.8)
-  - Techniques to disrupt nation-sponsored cyberattacks' goals (국가급 사이버 공격 목표 달성 와해 기술) (2020.11 ~ 2023.7)
+  - Techniques to disrupt nation-sponsored cyberattacks' goals (2020.11 ~ 2023.7)
     - In charge of APT attack classification and goal prediction.  
     - Also code integration manager within team.
     - Published 2 international [papers](#publications)([J1, J2]) and two [patents](#patent)([p2], [p3]).
-  - Techniques to improve fuzzing performance with deep learning (딥러닝을 활용한 퍼징 성능 향상 기술) (2018.11 ~ 2020.10)
+  - Techniques to improve fuzzing performance with deep learning (2018.11 ~ 2020.10)
     - In charge of seed scheduling algorithms.
     - Also code integration manager within team.
     - Published one [patent](#patent)([p1]) and reported five [CVEs](#cve).
@@ -70,10 +70,10 @@ layout: about
 - <span style="color:#FF6666">[P3]</span> Method for training attack prediction model and device therefor  
     Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
     U.S. Patent Number. US20230308462A1, September 28th, 2023. [[link]](https://patents.google.com/patent/US20230308462A1/en)  
-- <span style="color:#FF6666">[P2]</span> 공격 예측 모델 훈련 방법 및 이를 위한 장치 (METHOD FOR TRAINING ATTACK PREDICTION MODEL AND DEVICE THEREFOR)  
+- <span style="color:#FF6666">[P2]</span> METHOD FOR TRAINING ATTACK PREDICTION MODEL AND DEVICE THEREFOR  
     Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
     Republic of Korea. Patent Number. 10-2022-0037634, March 25th, 2023.  
-- <span style="color:#FF6666">[P1]</span> 퍼징에서 시드 파일을 스케줄링 하는 방법 및 이를 위한 장치(Method And Apparatus For Scheduling Seed File In Fuzzing)  
+- <span style="color:#FF6666">[P1]</span> Method And Apparatus For Scheduling Seed File In Fuzzing  
     Pilkeun Park, **Chanho Shin**, Seounghun Jeong, and Taein Kang  
     Republic of Korea. Patent Number. 10-2020-0102581, January 14th, 2022.
 
@@ -82,7 +82,6 @@ layout: about
 - Insup Lee, Chanho Shin, and Changhee Choi, “Mutating Cyber Camapaign With TTP Word Replacement,” in Proc. of the KIMST Annual Conference, Jun. 2023.
 - ***Chanho Shin***, Insup Lee, and Changhee Choi, “Towards GloVe-Based TTP Embedding With ATT&CK Framework,” in Proc. of the KIMST Annual Conference, Jun. 2023.
 - Changhee Choi, Insup Lee, ***Chanho Shin***, and Sungho Lee, “Cyber Threat Campaign Analysis Based on PEGASUS and RoBERTa Model,” in Proc. of the KIMST Annual Conference, Jun. 2023.
-
 - Insup Lee, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Changhee Choi, “Analyzing Cyberattack Campaign Similarity via TTP Sequence Embedding,” in Proc. of the KIMST Annual Conference, Jun. 2022.
 - Sunguk Shin, Insup Lee, ***Chanho Shin***, Seongyeon Seo, and Changhee Choi, “Cyber Campaign Analysis With TTP Embedding Using TF-IDF,” in Proc. of the KIMST Annual Conference, Jun. 2022.
 - ***Chanho Shin***, Sunguk Shin, Insup Lee, Seongyeon Seo, and Changhee Choi, “Classifying TTP Based on CIA Labeling,” in Proc. of the KIMST Annual Conference, Jun. 2022.
@@ -93,7 +92,6 @@ layout: about
 - ***Chanho Shin***, Sunguk Shin, and Changhee Choi, "Classifying the goal of cyber attack based on CIA labeling", Korean Society for Internet Information Spring Conference, Apr. 2022.
 - Sunguk Shin, ***Chanho Shin***, and Changhee Choi, "Cyber threat country classification with attack technique embedding", Korean Society for Internet Information Spring Conference, Apr. 2022.
 - Changhee Choi, ***Chanho Shin***, and Sunguk Shin, "Cyber attack group classification based on TTP Information", Korean Society for Internet Information Spring Conference, Apr. 2022.
-
 - ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, Insup Lee, and Changhee Choi, “Embedding and Training RNN to Estimating the Goal of Cyber Attack,” in Proc. of the KIMST Fall Conference, Nov. 2021.
 - Sunguk Shin, ***Chanho Shin***, Seongyeon Seo, Insup Lee, and Changhee Choi, “The Proposed Approach for Country Prediction With TTP-based Cyber Data Using GCN,” in Proc. of the KIMST Fall Conference, Nov. 2021.
 - Changhee Choi, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Insup Lee, “Deep Learning for Estimating Next Action of Cyber Attack,” in Proc. of the KIMST Fall Conference, Nov. 2021.
