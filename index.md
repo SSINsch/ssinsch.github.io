@@ -2,99 +2,132 @@
 layout: about 
 ---
 
-# About Me
-___  
+> I served as a captain in the ROK Army for seven years, working in information security with AI.  
+> I spent the first five years as a security researcher at the Agency for Defense Development (ADD), where I researched the application of deep learning in the field of cybersecurity.
+> The next two years were spent at ROK Cyber Operations Command, where I contributed to military security by researching and analyzing operational applications which I was skilled at.  
+> I earned a Master's degree in Information Security at Korea University under the supervision of [Seong-Jun Oh](https://scholar.google.co.kr/citations?user=ebq6ex0AAAAJ).
+> My master's thesis focused on `Learning with noisy labels` through data sampling.
 
-5년간 대한민국 육군 대위로 국방과학연구소에서 근무하였습니다.
-주 연구 분야는 정보보호와 딥러닝이며, 특히 자연어처리 분야의 연구를 활용하여 정보보안을 달성하는 연구를 수행하였습니다.  
-현재는 사이버작전사령부에서 근무 중에 있습니다.  
-동시에 고려대학교에서 석사 과정을 밟고 있습니다. (2024.8월 졸업 예정)  
+# Major News
+
+- `2024.11.29` Our team won the excellence prize(Chief of Naval Operations) at MAICON(Military AI CONtest) 2024.
+- `2024.11.7` Out team won the 2nd prize at FSI(Financial Security Institute) AIxData Challenge 2024.
+- `2024.8.23` I received an M.S. degree at Korea University.
+- `July 2024` Co-TES has been accepted to Pattern Recognition Letters.
+- `September 2023` "Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework" has been accepted to IEEE Access.
 
 
 # Education
-___
 
-- 고려대학교 정보보호대학원 석사과정 (2020.3 ~ 2024.8)
-    - Learning with noisy labels 연구   
-    - ~~Korean Hate speech detection~~ (중단)
-    - ~~Fake News detection~~ (중단)
-    - ~~Vulnerability detection using NLP~~ (중단)
-
-- 고려대학교 사이버국방학과 졸업 (2014.3 ~ 2018.2)
-    - 해킹동아리 CyKor 활동
-    - 암호학, 알고리즘, 시스템/웹 해킹, 국제법, 리버싱 등 다양한 전공 수강
-- 인천과학고등학교 조기졸업 (2012.3 ~ 2014.2)
-    - ```전공``` 화학 / 수학
-    - ```부전공```  생물
+- M.S. Candidate in Information Security, Korea University, Seoul, Republic of Korea (2020.3 ~ 2024.8)
+- B.Eng. in Cyber Defense, Korea University, Seoul, Republic of Korea (2014.3 ~ 2018.2)
+    - Cybersecurity Circle `CyKor` (2015~2017)
+- Incheon Science High School, Incheon, Republic of Korea (2012.3 ~ 2014.2)
+    - `Majored in` Chemistry / Mathematics
 
 # Experience
-___
-## Work Experience
-- 국방과학연구소(ADD, Agency for Defense Development) (2018.7 ~)
-  - 현역파견원 (국방사이버기술센터)
-  - 주요 수행역할은 [Portfolio](https://ssinsch.github.io/portfolio/) 참조
-- 사이버작전사령부(COC, Cyber Operations Command) (2023.8 ~ 2025.5)
-  - 업무 내용: (대외비)
+## Work and Research Experience
 
-## Other Experience
-- 차세대보안리더 양성프로그램 Best of the Best 5기 (2016.07 ~ 2017.01)
-  - 취약점 탐지 트랙 수료
-- LockedShields 2024 참가 (2024.4)
-  - `시스템` 및 `개발`팀 소속 업무 수행
-  - `리눅스 시스템 하드닝`, `윈도우 시스템 하드닝`, `Automation with Ansible/Fabric`
+- Security Engineer/Team Leader, ROK Cyber Operations Command (ROK C.O.C.), Republic of Korea (2023.8 ~ 2025.5)
+  - Network log analysis and program development using AI and statistics
+  - Others: `confidential` 
+- Cybersecurity Researcher, Agency for Defense Development (ADD), Seoul, Republic of Korea (2018.7 ~ 2023.8)
+  - Techniques to disrupt nation-sponsored cyberattacks' goals (국가급 사이버 공격 목표 달성 와해 기술) (2020.11 ~ 2023.7)
+    - In charge of APT attack classification and goal prediction.  
+    - Also code integration manager within team.
+    - Published 2 international [papers](#publications)([J1, J2]) and two [patents](#patent)([p2], [p3]).
+  - Techniques to improve fuzzing performance with deep learning (딥러닝을 활용한 퍼징 성능 향상 기술) (2018.11 ~ 2020.10)
+    - In charge of seed scheduling algorithms.
+    - Also code integration manager within team.
+    - Published one [patent](#patent):[p1] and reported five [CVEs](#cve).
+
+
+## Other Experiences
+- CCDCOE LockedShields 2024 Blue Team (2024.4)
+  - Member of `system hardening` and `dev` team.
+  - `Linux system hardening`, `Window system hardening`, `Automation with Ansible/Fabric`
+- Next-generation security leader training program "Best of the Best" (2016.07 ~ 2017.01)
+  - Vulnerability detection track
+
+
+## Honors and Awards
+- `2024.11.29` Excellence prize(Chief of Naval Operations) at MAICON(Military AI CONtest) 2024.
+- `2024.11.7` 2nd prize at FSI(Financial Security Institute) AIxData Challenge 2024.
+- Full Tuition Scholarship (Korea University) (2014.3 ~ 2018.2)
+  from Ministry of National Defense, Republic of Korea
+
 
 # Publications
-___
-## 국내 학술대회
-작성 예정
+## International Journals and Conferences
+- <span style="color:#FFCCCC">[J3]</span> Co–TES: Learning noisy labels with a Co-Teaching Exchange Student method
+  ***Chanho shin*** and Changhee Choi  
+  <span style="color:#FF9999">Pattern Recognition Letters</span>
 
-## 국내 학술지
-작성 예정
+- <span style="color:#FFCCCC">[J2]</span> Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework
+  ***Chanho shin***, Insup Lee, and Changhee Choi  
+  <span style="color:#FF9999">IEEE Access 2023</span>
 
-## 국제 학술대회
-작성 예정
+- <span style="color:#FFCCCC">[J1]</span> Performance evaluation method of cyber attack behaviour forecasting based on mitigation
+  Changhee Choi, Sunguk Shin, and ***Chanho Shin***  
+  <span style="color:#FF9999">The 12th international conference on ICT convergence (2021 ICTC)</span>
 
-## 국제 학술지
-- IEEE Access 게재 완료 (업데이트 예정)
-- Pattern Recognition Letters 게재 완료 (업데이트 예정)
+
+## Patent
+
+- <span style="color:#FFCCCC">[P3]</span> Method for training attack prediction model and device therefor  
+    Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
+    U.S. Patent Number. US20230308462A1, September 28th, 2023. [[link]](https://patents.google.com/patent/US20230308462A1/en)  
+- <span style="color:#FFCCCC">[P2]</span> 공격 예측 모델 훈련 방법 및 이를 위한 장치 (METHOD FOR TRAINING ATTACK PREDICTION MODEL AND DEVICE THEREFOR)
+    Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee
+    Republic of Korea. Patent Number. 10-2022-0037634, March 25th, 2023. 
+- <span style="color:#FFCCCC">[P1]</span> 퍼징에서 시드 파일을 스케줄링 하는 방법 및 이를 위한 장치(Method And Apparatus For Scheduling Seed File In Fuzzing)
+    Pilkeun Park, **Chanho Shin**, Seounghun Jeong, and Taein Kang
+    Republic of Korea. Patent Number. 10-2020-0102581, January 14th, 2022.
+  
+
+## Domestic Journals and Conferences
+
+- Insup Lee, Chanho Shin, and Changhee Choi, “Mutating Cyber Camapaign With TTP Word Replacement,” in Proc. of the KIMST Annual Conference, Jun. 2023.
+- ***Chanho Shin***, Insup Lee, and Changhee Choi, “Towards GloVe-Based TTP Embedding With ATT&CK Framework,” in Proc. of the KIMST Annual Conference, Jun. 2023.
+- Changhee Choi, Insup Lee, ***Chanho Shin***, and Sungho Lee, “Cyber Threat Campaign Analysis Based on PEGASUS and RoBERTa Model,” in Proc. of the KIMST Annual Conference, Jun. 2023.
+
+- Insup Lee, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Changhee Choi, “Analyzing Cyberattack Campaign Similarity via TTP Sequence Embedding,” in Proc. of the KIMST Annual Conference, Jun. 2022.
+- Sunguk Shin, Insup Lee, ***Chanho Shin***, Seongyeon Seo, and Changhee Choi, “Cyber Campaign Analysis With TTP Embedding Using TF-IDF,” in Proc. of the KIMST Annual Conference, Jun. 2022.
+- ***Chanho Shin***, Sunguk Shin, Insup Lee, Seongyeon Seo, and Changhee Choi, “Classifying TTP Based on CIA Labeling,” in Proc. of the KIMST Annual Conference, Jun. 2022.
+- Changhee Choi, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Insup Lee, “Cyber Attack Group Classification Using Siamese LSTM,” in Proc. of the KIMST Annual Conference, Jun. 2022.
+- ***Chan Ho Shin*** and Changhee Choi, "Cyberattack Goal Classification Based on MITRE ATT&CK: CIA Labeling", Journal of Internet Computing and Services, Dec. 2022. 
+- Changhee Choi, ***Chanho Shin***, and Sunguk Shin, "Cyber attack group classification based on MITRE ATT&CK model", Journal of Internet Computing and Services, Dec. 2022.
+- Sungyoung Cho, Yongwoo Park, Kunho Lee, Changhee Choi, ***Chanho Shin***, and Kyeongsik Lee, "An APT Attack Scoring Method Using MITRE ATT&CK", Journal of The Korea Institute of Information Security and Cryptology, Aug. 2022.
+- ***Chanho Shin***, Sunguk Shin, and Changhee Choi, "Classifying the goal of cyber attack based on CIA labeling", Korean Society for Internet Information Spring Conference, Apr. 2022.
+- Sunguk Shin, ***Chanho Shin***, and Changhee Choi, "Cyber threat country classification with attack technique embedding", Korean Society for Internet Information Spring Conference, Apr. 2022.
+- Changhee Choi, ***Chanho Shin***, and Sunguk Shin, "Cyber attack group classification based on TTP Information", Korean Society for Internet Information Spring Conference, Apr. 2022.
+
+- ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, Insup Lee, and Changhee Choi, “Embedding and Training RNN to Estimating the Goal of Cyber Attack,” in Proc. of the KIMST Fall Conference, Nov. 2021.
+- Sunguk Shin, ***Chanho Shin***, Seongyeon Seo, Insup Lee, and Changhee Choi, “The Proposed Approach for Country Prediction With TTP-based Cyber Data Using GCN,” in Proc. of the KIMST Fall Conference, Nov. 2021.
+- Changhee Choi, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Insup Lee, “Deep Learning for Estimating Next Action of Cyber Attack,” in Proc. of the KIMST Fall Conference, Nov. 2021.
+- ***Chan Ho Shin***, "Analysis of Research Trends on Fuzzing Seeds Files", Korean Institute of Information Scientists and Engineers, Dec. 2019.
+
 
 # CVE
-___
-- CVE-2020-24240 (ADD, 서울대 공동)
-    >GNU Bison before 3.7.1 has a use-after-free in _obstack_free in lib/obstack.c (called from gram_lex) when a '\0' byte is encountered. NOTE: there is a risk only if Bison is used with untrusted input, and the observed bug happens to cause unsafe behavior with a specific compiler/architecture. The bug report was intended to show that a crash may occur in Bison itself,not that a crash may occur in code that is generated by Bison.
-- CVE-2020-24241 (ADD, 서울대 공동)
-    >In Netwide Assembler (NASM) 2.15rc10, there is heap use-after-free in saa_wbytes in nasmlib/saa.c.
-- CVE-2020-24242 (ADD, 서울대 공동)
-    >In Netwide Assembler (NASM) 2.15rc10, SEGV can be triggered in tok_text in asm/preproc.c by accessing READ memory.
-- CVE-2020-24977 (ADD, 서울대 공동)
-    >GNOME project libxml2 v2.9.10 has a global buffer over-read vulnerability in xmlEncodeEntitiesInternal at libxml2/entities.c.
-- CVE-2020-24978 (ADD, 서울대 공동)
-    >In NASM 2.15.04rc3, there is a double-free vulnerability in pp_tokline asm/preproc.c.
-- ```Reject``` ~~CVE-2020-24979 (ADD, 서울대 공동)~~
-- ```Reject``` ~~CVE-2020-24980 (ADD, 서울대 공동)~~
 
-# Patent
-___
-- ```국내``` 퍼징에서 시드 파일을 스케줄링 하는 방법 및 이를 위한 장치 (2020, 출원번호)
-  - Method And Apparatus For Scheduling Seed File In Fuzzing
-- ```국내``` 공격 예측 모델 훈련 방법 및 이를 위항 장치 (2023, 출원번호)
-- ```국외``` Method for training attack prediction model and device therefor (2023, 출원번호)  
-  - Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee
+- CVE-2020-24240 (ADD, Seoul National University)
+    >GNU Bison before 3.7.1 has a use-after-free in _obstack_free in lib/obstack.c (called from gram_lex) when a '\0' byte is encountered. NOTE: there is a risk only if Bison is used with untrusted input, and the observed bug happens to cause unsafe behavior with a specific compiler/architecture. The bug report was intended to show that a crash may occur in Bison itself,not that a crash may occur in code that is generated by Bison.
+- CVE-2020-24241 (ADD, Seoul National University)
+    >In Netwide Assembler (NASM) 2.15rc10, there is heap use-after-free in saa_wbytes in nasmlib/saa.c.
+- CVE-2020-24242 (ADD, Seoul National University)
+    >In Netwide Assembler (NASM) 2.15rc10, SEGV can be triggered in tok_text in asm/preproc.c by accessing READ memory.
+- CVE-2020-24977 (ADD, Seoul National University)
+    >GNOME project libxml2 v2.9.10 has a global buffer over-read vulnerability in xmlEncodeEntitiesInternal at libxml2/entities.c.
+- CVE-2020-24978 (ADD, Seoul National University)
+    >In NASM 2.15.04rc3, there is a double-free vulnerability in pp_tokline asm/preproc.c.
+- ```Reject``` ~~CVE-2020-24979 (ADD, Seoul National University)~~
+- ```Reject``` ~~CVE-2020-24980 (ADD, Seoul National University)~~
+
 
 # Skills
-___
+
 - ```Programming / CS```  **python**, C, fuzzing
-- ```Language``` **Korean**, English
+- ```Language``` **Korean**, English, Japanese(N3)
 
 
-# Reports
-___
-- 보안규정상 공개범위 밖 입니다.
-
-# Domain Knowledge & Research interest
-___ 
-- Cyber Security
-- Cyber Threat Intelligence
-- Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
-- Learning with Noisy labels (LNL)
+<small> Last Update: November 2024 </small>
