@@ -18,24 +18,24 @@ layout: about
 
 # Education
 
-- M.S. degree in Information Security, Korea University, Seoul, Republic of Korea (2020.3 ~ 2024.8)
-- B.Eng. in Cyber Defense, Korea University, Seoul, Republic of Korea (2014.3 ~ 2018.2)
+- `2020.3 ~ 2024.8` M.S. degree in Information Security, Korea University, Seoul, Republic of Korea 
+- `2014.3 ~ 2018.2` B.Eng. in Cyber Defense, Korea University, Seoul, Republic of Korea 
     - Cybersecurity Circle `CyKor` (2015~2017)
-- Incheon Science High School, Incheon, Republic of Korea (2012.3 ~ 2014.2)
+- `2012.3 ~ 2014.2`Incheon Science High School, Incheon, Republic of Korea 
     - `Majored in` Chemistry / Mathematics
 
 # Experience
 ## Work and Research Experience
 
-- Security Engineer/Team Leader, ROK Cyber Operations Command (ROK C.O.C.), Republic of Korea (2023.8 ~ 2025.5)
+- `2023.8 ~ 2025.5` Security Engineer/Team Leader, ROK Cyber Operations Command (ROK C.O.C.), Republic of Korea
   - Network log analysis and program development using AI and statistics
   - Others: `Confidential` 
-- Cybersecurity Researcher, Agency for Defense Development (ADD), Seoul, Republic of Korea (2018.7 ~ 2023.8)
-  - Techniques to disrupt nation-sponsored cyberattacks' goals (2020.11 ~ 2023.7)
+- `2018.7 ~ 2023.8` Cybersecurity Researcher, Agency for Defense Development (ADD), Seoul, Republic of Korea
+  - `2020.11 ~ 2023.7` Techniques to disrupt nation-sponsored cyberattacks' goals
     - In charge of APT attack classification and goal prediction.  
     - Also code integration manager within team.
-    - Published 2 international [papers](#publications)([J1, J2]) and two [patents](#patent)([p2], [p3]).
-  - Techniques to improve fuzzing performance with deep learning (2018.11 ~ 2020.10)
+    - Published 2 international [papers](#publications)([J1], [J2]) and two [patents](#patent)([p2], [p3]).
+  - `2018.11 ~ 2020.10` Techniques to improve fuzzing performance with deep learning
     - In charge of seed scheduling algorithms.
     - Also code integration manager within team.
     - Published one [patent](#patent)([p1]) and reported five [CVEs](#cve).
@@ -50,9 +50,8 @@ layout: about
 ## Honors and Awards
 - `2024.11.29` Excellence prize(Chief of Staff, R.O.K Air Force) at MAICON(Military AI CONtest) 2024.
 - `2024.11.20` Major General's Commendation at ROK Cyber Operations Command (ROK C.O.C.) for Cyber Operation.
-- Excellence prize(Chief of Staff, R.O.K Air Force) at MAICON(Military AI CONtest) 2024.
 - `2024.11.7` 2nd prize at FSI(Financial Security Institute) AIxData Challenge 2024.
-- Full Tuition Scholarship (Korea University) (2014.3 ~ 2018.2)  
+- `2014.3 ~ 2018.2` Full Tuition Scholarship (Korea University)  
   from Ministry of National Defense, Republic of Korea
 
 ## CVE
