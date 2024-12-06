@@ -18,7 +18,7 @@ layout: about
 
 # Education
 
-- M.S. Candidate in Information Security, Korea University, Seoul, Republic of Korea (2020.3 ~ 2024.8)
+- M.S. degree in Information Security, Korea University, Seoul, Republic of Korea (2020.3 ~ 2024.8)
 - B.Eng. in Cyber Defense, Korea University, Seoul, Republic of Korea (2014.3 ~ 2018.2)
     - Cybersecurity Circle `CyKor` (2015~2017)
 - Incheon Science High School, Incheon, Republic of Korea (2012.3 ~ 2014.2)
@@ -79,7 +79,7 @@ layout: about
 
 ## Domestic Journals and Conferences
 
-- Insup Lee, Chanho Shin, and Changhee Choi, “Mutating Cyber Camapaign With TTP Word Replacement,” in Proc. of the KIMST Annual Conference, Jun. 2023.
+- Insup Lee, ***Chanho Shin***, and Changhee Choi, “Mutating Cyber Camapaign With TTP Word Replacement,” in Proc. of the KIMST Annual Conference, Jun. 2023.
 - ***Chanho Shin***, Insup Lee, and Changhee Choi, “Towards GloVe-Based TTP Embedding With ATT&CK Framework,” in Proc. of the KIMST Annual Conference, Jun. 2023.
 - Changhee Choi, Insup Lee, ***Chanho Shin***, and Sungho Lee, “Cyber Threat Campaign Analysis Based on PEGASUS and RoBERTa Model,” in Proc. of the KIMST Annual Conference, Jun. 2023.
 - Insup Lee, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Changhee Choi, “Analyzing Cyberattack Campaign Similarity via TTP Sequence Embedding,” in Proc. of the KIMST Annual Conference, Jun. 2022.
