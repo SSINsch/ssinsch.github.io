@@ -117,7 +117,7 @@ layout: about
 # Skills
 
 - ```Programming / CS```  **python**, C, fuzzing
-- ```Language``` **Korean**, English, Japanese(N3)
+- ```Language``` **Korean**, English, Japanese
 
 
 <small> Last Update: December 2024 </small>
