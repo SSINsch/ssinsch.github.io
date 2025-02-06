@@ -1,5 +1,5 @@
 # Site settings
-title: Welcome to Ch.shin
+title: Resume
 baseurl: ""
 url: "https://ssinsch.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
@@ -9,7 +9,7 @@ author:
   name: ChanHo Shin
   desc: Still in military service (~25.5.31)
   email: cksgh1996@gmail.com
-  selfie: assets/img/profile.jpg
+  selfie: assets/img/profile.JPG
 
 # social
 social:

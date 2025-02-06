@@ -3,9 +3,6 @@ Based on...
 - Chester How's tale-theme(https://github.com/chesterhow/tale)
 - KyeongSeob Sim's AP(https://github.com/kssim/ap)  
 
-# Todo
-- 한글 font 수정
-- Portfolio 작성
 
 ## Structure
 * Here are the main files of the template
