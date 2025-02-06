@@ -44,7 +44,7 @@ type: Research
 퍼징과 스케줄링을 모르는 사람에게 이를 자연어로 설명하기 위해 굉장한 사회적 노력을 들였다.  
 이를 통해 겸사겸사 "쉽게 설명하기"의 중요성도 느꼈다.
 
-![seed](../assets/img-portfolio/patent-seed.jpg)
+![seed](../assets/img-portfolio/add-fuzzing/patent-seed.jpg)
 
 
 ## 느낀 점 + 아쉬운 점
