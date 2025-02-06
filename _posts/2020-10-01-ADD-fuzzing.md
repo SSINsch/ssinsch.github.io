@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "딥러닝을 활용한 퍼징 성능 향상 기술 연구 (ADD)"
+title:  "딥러닝 퍼징 (ADD)"
 info: "Techniques to improve fuzzing performance with deep learning"
-tech: "python", "fuzzing", "scheduling", "deep learning"
+tech: "python, fuzzing, scheduling, deep learning"
 type: Research
 ---
 > 2018.11 ~ 2020.10  
