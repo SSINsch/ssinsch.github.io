@@ -72,7 +72,7 @@ layout: about
 # Publications
 ## International Journals and Conferences
 - <span style="color:#FF6666">[J3]</span> Co–TES: Learning noisy labels with a Co-Teaching Exchange Student method  
-  ***Chanho shin*** and Changhee Choi  
+  ***Chanho shin*** and Seong-jun Oh  
   <span style="color:#FF9999">Pattern Recognition Letters</span>
 - <span style="color:#FF6666">[J2]</span> Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework  
   ***Chanho shin***, Insup Lee, and Changhee Choi  
