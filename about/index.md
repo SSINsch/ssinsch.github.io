@@ -28,32 +28,32 @@ layout: about_kr
 # Experience
 ## Work and Research Experience
 
-- `2023.8 ~ 2025.5` Security Engineer/Team Leader, ROK Cyber Operations Command (ROK C.O.C.), Republic of Korea
-  - Network log analysis and program development using AI and statistics
-  - Others: `Confidential` 
-- `2018.7 ~ 2023.8` Cybersecurity Researcher, Agency for Defense Development (ADD), Seoul, Republic of Korea
-  - `2020.11 ~ 2023.7` Techniques to disrupt nation-sponsored cyberattacks' goals
-    - In charge of APT attack classification and goal prediction.  
-    - Also code integration manager within team.
-    - Published 2 international [papers](#publications)([J1], [J2]) and two [patents](#patent)([p2], [p3]).
-  - `2018.11 ~ 2020.10` Techniques to improve fuzzing performance with deep learning
-    - In charge of seed scheduling algorithms.
-    - Also code integration manager within team.
+- `2023.8 ~ 2025.5` 분석관 및 팀장, 사이버작전사령부
+  - 통계 및 AI 모델을 이용한 네트워크 로그 분석 및 프로그램 개발
+  - 그 외 업무: `Confidentail` 
+- `2018.7 ~ 2023.8` 보안 연구원, 국방과학연구소 (ADD)
+  - `2020.11 ~ 2023.7` 국가급 사이버 공격 목표 와해 기술
+    - 사이버 공격 캠페인 분류 및 예측 기술 연구 및 개발  
+    - 코드 통합 관리자
+    - 국제 컨퍼런스 및 저널 논문 [2건](#publications)([J1], [J2]) 및 특허 [2건](#patent)([p2], [p3]). 등록
+  - `2018.11 ~ 2020.10` 딥러닝을 활용한 퍼징 성능 향상 기술
+    - 시드 스케줄링 알고리즘 개발
+    - 코드 통합 관리자
+    - 특허 [1건](#patent)([p1]) 등록 및 CVE [5건](#cve) 등록
     - Published one [patent](#patent)([p1]) and reported five [CVEs](#cve).
 
 ## Other Experiences
-- CCDCOE LockedShields 2024 Blue Team (2024.4)
-  - Member of `system hardening` and `dev` team.
+- CCDCOE LockedShields 2024 블루팀 (2024.4)
+  - `시스템 하드닝` 및 `개발`팀 소속
   - `Linux system hardening`, `Window system hardening`, `Automation with Ansible/Fabric`
-- Next-generation security leader training program "Best of the Best" (2016.07 ~ 2017.01)
-  - Vulnerability detection track
+- 차세대 보안리더 "Best of the Best" (2016.07 ~ 2017.01)
+  - 취약점 분석 트랙
 
 ## Honors and Awards
-- `2024.11.29` Excellence prize(Chief of Staff, R.O.K Air Force) at MAICON(Military AI CONtest) 2024.
-- `2024.11.20` Major General's Commendation at ROK Cyber Operations Command (ROK C.O.C.) for Cyber Operation.
-- `2024.11.7` 2nd prize at FSI(Financial Security Institute) AIxData Challenge 2024.
-- `2014.3 ~ 2018.2` Full Tuition Scholarship (Korea University)  
-  from Ministry of National Defense, Republic of Korea
+- `2024.11.29` MAICON(Military AI CONtest) 2024 우수상(공군참모총장상) 수상
+- `2024.11.20` 사이버작전사령관 표창 수상
+- `2024.11.7` FSI(Financial Security Institute) AIxData Challenge 2024 2등(최우수상) 수상
+- `2014.3 ~ 2018.2` 전액 장학금(고려대, 국방부)
 
 ## CVE
 - CVE-2020-24240 (ADD, Seoul National University)
@@ -88,10 +88,10 @@ layout: about_kr
     Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
     U.S. Patent Number. US20230308462A1, September 28th, 2023. [[link]](https://patents.google.com/patent/US20230308462A1/en)  
 - <span style="color:#FF6666">[P2]</span> METHOD FOR TRAINING ATTACK PREDICTION MODEL AND DEVICE THEREFOR  
-    Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
+    최창희, **신찬호**, 신성욱, 서성연, 이인섭  
     Republic of Korea. Patent Number. 10-2022-0037634, March 25th, 2023.  
 - <span style="color:#FF6666">[P1]</span> Method And Apparatus For Scheduling Seed File In Fuzzing  
-    Pilkeun Park, **Chanho Shin**, Seounghun Jeong, and Taein Kang  
+    박필근, **신찬호**, 정승훈, 강태인  
     Republic of Korea. Patent Number. 10-2020-0102581, January 14th, 2022. [[link]](https://doi.org/10.8080/1020200102581)
 
 ## Domestic Journals and Conferences
