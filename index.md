@@ -84,13 +84,13 @@ layout: about
 ## Patent
 
 - <span style="color:#FF6666">[P3]</span> Method for training attack prediction model and device therefor  
-    Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
+    Changhee Choi, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Insup Lee  
     U.S. Patent Number. US20230308462A1, September 28th, 2023. [[link]](https://patents.google.com/patent/US20230308462A1/en)  
 - <span style="color:#FF6666">[P2]</span> METHOD FOR TRAINING ATTACK PREDICTION MODEL AND DEVICE THEREFOR  
-    Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
+    Changhee Choi, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Insup Lee  
     Republic of Korea. Patent Number. 10-2022-0037634, March 25th, 2023.  
 - <span style="color:#FF6666">[P1]</span> Method And Apparatus For Scheduling Seed File In Fuzzing  
-    Pilkeun Park, **Chanho Shin**, Seounghun Jeong, and Taein Kang  
+    Pilkeun Park, ***Chanho Shin***, Seounghun Jeong, and Taein Kang  
     Republic of Korea. Patent Number. 10-2020-0102581, January 14th, 2022. [[link]](https://doi.org/10.8080/1020200102581)
 
 ## Domestic Journals and Conferences

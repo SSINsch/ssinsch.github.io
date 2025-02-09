@@ -85,34 +85,34 @@ layout: about_kr
 ## Patent
 
 - <span style="color:#FF6666">[P3]</span> Method for training attack prediction model and device therefor  
-    Changhee Choi, **Chanho Shin**, Sunguk Shin, Seongyeon Seo, and Insup Lee  
+    Changhee Choi, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Insup Lee  
     U.S. Patent Number. US20230308462A1, September 28th, 2023. [[link]](https://patents.google.com/patent/US20230308462A1/en)  
 - <span style="color:#FF6666">[P2]</span> METHOD FOR TRAINING ATTACK PREDICTION MODEL AND DEVICE THEREFOR  
-    최창희, **신찬호**, 신성욱, 서성연, 이인섭  
+    최창희, ***신찬호***, 신성욱, 서성연, 이인섭  
     Republic of Korea. Patent Number. 10-2022-0037634, March 25th, 2023.  
 - <span style="color:#FF6666">[P1]</span> Method And Apparatus For Scheduling Seed File In Fuzzing  
-    박필근, **신찬호**, 정승훈, 강태인  
+    박필근, ***신찬호***, 정승훈, 강태인  
     Republic of Korea. Patent Number. 10-2020-0102581, January 14th, 2022. [[link]](https://doi.org/10.8080/1020200102581)
 
 ## Domestic Journals and Conferences
 
-- Insup Lee, ***Chanho Shin***, and Changhee Choi, “Mutating Cyber Camapaign With TTP Word Replacement,” in Proc. of the KIMST Annual Conference, Jun. 2023.
-- ***Chanho Shin***, Insup Lee, and Changhee Choi, “Towards GloVe-Based TTP Embedding With ATT&CK Framework,” in Proc. of the KIMST Annual Conference, Jun. 2023.
-- Changhee Choi, Insup Lee, ***Chanho Shin***, and Sungho Lee, “Cyber Threat Campaign Analysis Based on PEGASUS and RoBERTa Model,” in Proc. of the KIMST Annual Conference, Jun. 2023.
-- Insup Lee, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Changhee Choi, “Analyzing Cyberattack Campaign Similarity via TTP Sequence Embedding,” in Proc. of the KIMST Annual Conference, Jun. 2022.
-- Sunguk Shin, Insup Lee, ***Chanho Shin***, Seongyeon Seo, and Changhee Choi, “Cyber Campaign Analysis With TTP Embedding Using TF-IDF,” in Proc. of the KIMST Annual Conference, Jun. 2022.
-- ***Chanho Shin***, Sunguk Shin, Insup Lee, Seongyeon Seo, and Changhee Choi, “Classifying TTP Based on CIA Labeling,” in Proc. of the KIMST Annual Conference, Jun. 2022.
-- Changhee Choi, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Insup Lee, “Cyber Attack Group Classification Using Siamese LSTM,” in Proc. of the KIMST Annual Conference, Jun. 2022.
-- ***Chan Ho Shin*** and Changhee Choi, "Cyberattack Goal Classification Based on MITRE ATT&CK: CIA Labeling", Journal of Internet Computing and Services, Dec. 2022. 
-- Changhee Choi, ***Chanho Shin***, and Sunguk Shin, "Cyber attack group classification based on MITRE ATT&CK model", Journal of Internet Computing and Services, Dec. 2022.
-- Sungyoung Cho, Yongwoo Park, Kunho Lee, Changhee Choi, ***Chanho Shin***, and Kyeongsik Lee, "An APT Attack Scoring Method Using MITRE ATT&CK", Journal of The Korea Institute of Information Security and Cryptology, Aug. 2022.
-- ***Chanho Shin***, Sunguk Shin, and Changhee Choi, "Classifying the goal of cyber attack based on CIA labeling", Korean Society for Internet Information Spring Conference, Apr. 2022.
-- Sunguk Shin, ***Chanho Shin***, and Changhee Choi, "Cyber threat country classification with attack technique embedding", Korean Society for Internet Information Spring Conference, Apr. 2022.
-- Changhee Choi, ***Chanho Shin***, and Sunguk Shin, "Cyber attack group classification based on TTP Information", Korean Society for Internet Information Spring Conference, Apr. 2022.
-- ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, Insup Lee, and Changhee Choi, “Embedding and Training RNN to Estimating the Goal of Cyber Attack,” in Proc. of the KIMST Fall Conference, Nov. 2021.
-- Sunguk Shin, ***Chanho Shin***, Seongyeon Seo, Insup Lee, and Changhee Choi, “The Proposed Approach for Country Prediction With TTP-based Cyber Data Using GCN,” in Proc. of the KIMST Fall Conference, Nov. 2021.
-- Changhee Choi, ***Chanho Shin***, Sunguk Shin, Seongyeon Seo, and Insup Lee, “Deep Learning for Estimating Next Action of Cyber Attack,” in Proc. of the KIMST Fall Conference, Nov. 2021.
-- ***Chan Ho Shin***, "Analysis of Research Trends on Fuzzing Seeds Files", Korean Institute of Information Scientists and Engineers, Dec. 2019.
+- 이인섭, ***신찬호***, 최창희, “Mutating Cyber Camapaign With TTP Word Replacement,” 한국군사과학기술학회(KIMST) 종합 학술대회, Jun. 2023.
+- ***신찬호***, 이인섭, 최창희, “Towards GloVe-Based TTP Embedding With ATT&CK Framework,” 한국군사과학기술학회(KIMST) 종합 학술대회, Jun. 2023.
+- 최창희, 이인섭, ***신찬호***, 이성호, “Cyber Threat Campaign Analysis Based on PEGASUS and RoBERTa Model,” 한국군사과학기술학회(KIMST) 종합 학술대회, Jun. 2023.
+- 이인섭, ***신찬호***, 신성욱, 서성연, 최창희, “Analyzing Cyberattack Campaign Similarity via TTP Sequence Embedding,” 한국군사과학기술학회(KIMST) 종합 학술대회, Jun. 2022.
+- 신성욱, 이인섭, ***신찬호***, 서성연, 최창희, “Cyber Campaign Analysis With TTP Embedding Using TF-IDF,” 한국군사과학기술학회(KIMST) 종합 학술대회, Jun. 2022.
+- ***신찬호***, 신성욱, 이인섭, 서성연, 최창희, “Classifying TTP Based on CIA Labeling,” 한국군사과학기술학회(KIMST) 종합 학술대회, Jun. 2022.
+- 최창희, ***신찬호***, 신성욱, 서성연, 이인섭, “Cyber Attack Group Classification Using Siamese LSTM,” 한국군사과학기술학회(KIMST) 종합 학술대회, Jun. 2022.
+- ***신찬호***, 최창희, "MITRE ATT&CK 기반 사이버 공격 목표 분류 : CIA 라벨링", 인터넷정보학회(JICS), Dec. 2022. 
+- 최창희, ***신찬호***, 신성욱, "MITRE ATT&CK 모델을 이용한 사이버 공격 그룹 분류", 인터넷정보학회(JICS), Dec. 2022.
+- 조성영, 박용우, 이건호, 최창희, ***신찬호***, 이경식, "MITRE ATT&CK을 이용한 APT 공격 스코어링 방법 연구", 한국정보보호학회(KIISC), Aug. 2022.
+- ***신찬호***, 신성욱, 최창희, "Classifying the goal of cyber attack based on CIA labeling", 한국인터넷정보학회(KSII) 춘계학술발표대회, Apr. 2022.
+- 신성욱, ***신찬호***, 최창희, "Cyber threat country classification with attack technique embedding", 한국인터넷정보학회(KSII) 춘계학술발표대회, Apr. 2022.
+- 최창희, ***신찬호***, 신성욱, "Cyber attack group classification based on TTP Information", 한국인터넷정보학회(KSII) 춘계학술발표대회, Apr. 2022.
+- ***신찬호***, 신성욱, 서성연, 이인섭, 최창희, “Embedding and Training RNN to Estimating the Goal of Cyber Attack,” 한국군사과학기술학회(KIMST) 추계 학술대회, Nov. 2021.
+- 신성욱, ***신찬호***, 서성연, 이인섭,  최창희, “The Proposed Approach for Country Prediction With TTP-based Cyber Data Using GCN,” 한국군사과학기술학회(KIMST) 추계 학술대회, Nov. 2021.
+- 최창희, ***신찬호***, 신성욱, 서성연, 이인섭, “Deep Learning for Estimating Next Action of Cyber Attack,” 한국군사과학기술학회(KIMST) 추계 학술대회, Nov. 2021.
+- ***신찬호***, "퍼징 시드 파일에 관한 연구 동향 분석", 한국정보과학회, Dec. 2019.
 
 
 # Skills
