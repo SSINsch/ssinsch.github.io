@@ -13,7 +13,7 @@ layout: about
 - `2024.11.29` Our team won the excellence prize(Chief of Staff, R.O.K Air Force) at MAICON(Military AI CONtest) 2024.
 - `2024.11.7` Out team won the 2nd prize at FSI(Financial Security Institute) AIxData Challenge 2024.
 - `2024.8.23` I received an M.S. degree at Korea University.
-- `July 2024` Co-TES has been accepted to Pattern Recognition Letters.
+- `June 2024` Co-TES has been accepted to Pattern Recognition Letters.
 - `September 2023` "Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework" has been accepted to IEEE Access.
 
 # Education
@@ -21,7 +21,7 @@ layout: about
 - `2020.3 ~ 2024.8` M.S. degree in Information Security, Korea University, Seoul, Republic of Korea 
 - `2014.3 ~ 2018.2` B.Eng. in Cyber Defense, Korea University, Seoul, Republic of Korea 
     - Cybersecurity Circle `CyKor` (2015~2017)
-- `2012.3 ~ 2014.2`Incheon Science High School, Incheon, Republic of Korea 
+- `2012.3 ~ 2014.2` Incheon Science High School, Incheon, Republic of Korea 
     - `Majored in` Chemistry / Mathematics
 
 # Experience
