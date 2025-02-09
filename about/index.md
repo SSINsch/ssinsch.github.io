@@ -1,7 +1,5 @@
 ---
-layout: default
-title: About (KR)
-permalink: /about/
+layout: about
 ---
 
 {% include index.md %}
