@@ -10,22 +10,3 @@
 @import 'layouts/layout';
 @import 'layouts/footer';
 @import url('https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&family=Nanum+Gothic&display=swap');
-
-/* 기본 설정: 영어 콘텐츠에 폰트 적용 */
-body {
-  font-family: 'Libre Baskerville', 'Carlito', serif; /* 영어 텍스트에 적용 */
-}
-
-/* 한글 콘텐츠에 Nanum Gothic 적용 */
-html[lang="ko"] body,
-html[lang="ko"] body p,
-html[lang="ko"] body h1, html[lang="ko"] body h2, html[lang="ko"] body h3, html[lang="ko"] body h4, html[lang="ko"] body h5, html[lang="ko"] body h6 {
-  font-family: 'Nanum Gothic', sans-serif; /* 한글 텍스트에 적용 */
-}
-
-/* 영어 콘텐츠에도 다른 폰트를 명시적으로 적용 */
-html[lang="en"] body,
-html[lang="en"] body p,
-html[lang="en"] body h1, html[lang="en"] body h2, html[lang="en"] body h3, html[lang="en"] body h4, html[lang="en"] body h5, html[lang="en"] body h6 {
-  font-family: 'Libre Baskerville', 'Carlito', serif; /* 영어 텍스트에 적용 */
-}
