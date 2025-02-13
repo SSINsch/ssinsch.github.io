@@ -117,7 +117,7 @@ layout: about_kr
 
 # Skills
 
-- ```Programming / CS```  **python**, C, ML/DL, fuzzing
+- ```Programming / CS```  **python**, C, AI/ML, fuzzing
 - ```Language``` **Korean**, English, Japanese
 
 
