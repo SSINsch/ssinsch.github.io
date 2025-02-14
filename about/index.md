@@ -40,7 +40,6 @@ layout: about_kr
     - 시드 스케줄링 알고리즘 개발
     - 코드 통합 관리자
     - 특허 [1건](#patent)([p1]) 등록 및 CVE [5건](#cve) 등록
-    - Published one [patent](#patent)([p1]) and reported five [CVEs](#cve).
 
 ## Other Experiences
 - CCDCOE LockedShields 2024 블루팀 (2024.4)
