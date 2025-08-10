@@ -8,8 +8,8 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: ChanHo Shin
   name_kr: 신찬호
-  desc: Still in military service (~25.5.31)
-  desc_kr: 전역 예정(25.5.31)
+  desc:
+  desc_kr:
   email: cksgh1996@gmail.com
   selfie: assets/img/profile.JPG
 
