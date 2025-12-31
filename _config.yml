@@ -8,8 +8,8 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: ChanHo Shin
   name_kr: 신찬호
-  desc:
-  desc_kr:
+  desc: AI security specialist
+  desc_kr: AI 보안 전문가
   email: cksgh1996@gmail.com
   selfie: assets/img/profile.JPG
 

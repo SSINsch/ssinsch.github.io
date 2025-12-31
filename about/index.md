@@ -6,7 +6,10 @@ layout: about_kr
 > 처음 5년은 국방과학연구소(ADD)에서 보안 연구원으로 근무하며 사이버 보안 분야에 딥러닝을 적용하는 연구를 했습니다.
 > 그 후 2년은 사이버작전사령부에서 근무하면서 작전적 측면에서 분석 업무를 수행하며 군 보안에 기여했습니다.  
 > 고려대학교에서 [오성준](https://scholar.google.co.kr/citations?user=ebq6ex0AAAAJ) 교수님의 지도 아래 정보보안 석사 학위를 취득했습니다.
-> 석사 논문은 데이터 샘플링을 통한 `Learning with noisy labels`에 관한 연구였습니다.
+> 석사 논문은 데이터 샘플링을 통한 `Learning with noisy labels`에 관한 연구였습니다.  
+> 현재는 삼성SDS에서 AI보안 파트에 합류하여 안전하면서도 효과적인 AI 사용을 목표로
+> 생성형AI를 비롯한 여러 AI에 대한 취약점 진단 및 가드레일 체계를 구축하며,
+> 기업 내 생성형 AI 도입 시 발생할 수 있는 보안 리스크를 선제적으로 대응하고 있습니다.
 
 
 # Major News
@@ -28,6 +31,8 @@ layout: about_kr
 # Experience
 ## Work and Research Experience
 
+- `2025.11 ~ ` Engineer, 삼성SDS (AI보안)
+  - AI 보안 점검 및 거버넌스 구축
 - `2023.8 ~ 2025.5` 분석관 및 팀장, 사이버작전사령부
   - 통계 및 AI 모델을 이용한 네트워크 로그 분석 및 프로그램 개발
   - 그 외 업무: `Confidential` 
@@ -120,4 +125,4 @@ layout: about_kr
 - ```Language``` **Korean**, English, Japanese
 
 
-<small> Last Update: December 2024 </small>
+<small> Last Update: December 2025 </small>
