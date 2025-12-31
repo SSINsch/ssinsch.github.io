@@ -4,9 +4,7 @@ layout: about
 
 > I served as a captain in the ROK Army for seven years, working in information security with AI.  
 > I spent the first five years as a security researcher at the Agency for Defense Development (ADD), where I researched the application of deep learning in the field of cybersecurity.
-> The next two years were spent at ROK Cyber Operations Command, where I contributed to military security by researching and analyzing operational applications which I was skilled at.  
-> I earned a Master's degree in Information Security at Korea University under the supervision of [Seong-Jun Oh](https://scholar.google.co.kr/citations?user=ebq6ex0AAAAJ).
-> My master's thesis focused on `Learning with noisy labels` through data sampling.  
+> The next two years were spent at ROK Cyber Operations Command, where I contributed to military security by researching and analyzing operational applications which I was skilled at.   
 > Currently, I am a member of the AI Security Team at Samsung SDS, where I focus on enabling secure yet effective AI adoption.
 > My role involves conducting vulnerability assessments and architecting guardrail systems for Generative AI and other AI models,
 > ensuring that corporate AI deployments are proactively safeguarded against emerging security risks.
