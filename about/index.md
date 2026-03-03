@@ -29,7 +29,7 @@ layout: about_kr
 # Experience
 ## Work and Research Experience
 
-- `2025.11 ~ ` Engineer, 삼성SDS (AI보안)
+- `2025.11 ~ ` Senior Engineer, 삼성SDS (AI보안)
   - AI 보안 점검 및 거버넌스 구축
 - `2023.8 ~ 2025.5` 분석관 및 팀장, 사이버작전사령부
   - 통계 및 AI 모델을 이용한 네트워크 로그 분석 및 프로그램 개발
@@ -123,4 +123,4 @@ layout: about_kr
 - ```Language``` **Korean**, English, Japanese
 
 
-<small> Last Update: December 2025 </small>
+<small> Last Update: March 2026 </small>

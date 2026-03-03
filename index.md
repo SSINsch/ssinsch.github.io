@@ -28,7 +28,7 @@ layout: about
 # Experience
 ## Work and Research Experience
 
-- `2025.11 ~ ` Engineer, Samsung SDS (AI Security)
+- `2025.11 ~ ` Senior Engineer, Samsung SDS (AI Security)
   - AI vulnerability assessment and AI security governance setup
 - `2023.8 ~ 2025.5` Security Engineer/Team Leader, ROK Cyber Operations Command (ROK C.O.C.), Republic of Korea
   - Network log analysis and program development using AI and statistics
@@ -123,4 +123,4 @@ layout: about
 - ```Language``` **Korean**, English, Japanese
 
 
-<small> Last Update: December 2025 </small>
+<small> Last Update: March 2026 </small>
